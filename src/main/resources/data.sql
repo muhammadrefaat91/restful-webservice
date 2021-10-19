@@ -1,0 +1,5 @@
+insert  into  user values ( 1, sysdate(), 'refaat')
+insert  into  user values ( 2, sysdate(), 'Hassan')
+insert  into  user values ( 3, sysdate(), 'Ahmed')
+insert  into  user values ( 4, sysdate(), 'Sameh')
+insert  into  user values ( 5, sysdate(), 'Ali')
