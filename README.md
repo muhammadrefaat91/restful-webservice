@@ -1,4 +1,4 @@
-# restful-webservice
+# Restful-webservice
 
 # Spring boot app includes:-
 - Rest controllers
